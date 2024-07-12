@@ -98,7 +98,7 @@ video {
 
     .other {
         position: absolute;
-        margin: -170px 90px;
+        margin: -170px -70px;
         width: 48%;
     }
 }
